@@ -1,8 +1,6 @@
-#uvicorn
-#fastapi 
-#docker
 seaborn
 pandas
+numpy
 sqlite3
 scikit-learn
 joblib
